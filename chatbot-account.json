@@ -1,13 +1,12 @@
 {
-    "type": "",
-    "project_id": "",
-    "private_key_id": "",
-    "private_key":"",
-    "client_email": "",
-    "client_id": "",
-    "auth_uri": "",
-    "token_uri": "",
-    "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url":""
-  }
-  
+  "type": "service_account",
+  "project_id": "prueba-libreria-ocnn",
+  "private_key_id": "a1d07ad2a57d37aa8fcd88cb30fe37ac65517d60",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTvSCd3MRtrl23\nbQ3ehTJxFKUIPNLBnhbqEhat/TpE27C43UkbhvG9IkLKspW/WFlRxI9r48Ls+Yrn\nlR6nOy9WhsWEEJFavyEP/MoFPraJY0dqVahkb1766EmVwgnlmKA5WHPrGIFGOVix\n9kqdvY9US411uvMP5PwQC0XtS1YgkOF9oPclv+eY2g0/Pc/ZeseuG+1pQ8dLwlQI\njpQUY8kIvCHUUo8xE3vV0idz+fC0Kgu1/veD3Sj21SGjb6gext17+fSsfX0iKBsV\nme2C2KJUG5es560mvfbj3augLMslGKEbLzC61OXSGOSu+zS+YO1MLH+lFm06EHiT\ngTjlW1PbAgMBAAECggEADlVBeE4xzHbpiHl3tItxrwPwaU6suZyOUolSQwmJleWv\n4HkM8jG/+sdEnDIF6a5SWt2iaRxBiAcbEbLKIL855Mfku5w01V7Ayd3ufaJm0DAJ\n7Tcf2gShT6dvwRUh1F/w4KY4hT6NvweHayyP6n5NeIL7cBptSl3RePM6aDtu+MSW\nUx/5dHH+X9ZreGSHWN0Lt+hgDOhq9xAaPu1TqcxWKnrxFdHkJI+o874nYHy34eZK\n1ctmOX6v/yHUa3LNprgDR8JVsKZBgrvGlMZ5wmb9gWL2fXm18A4cIdAYm9LuqWEW\n1zc/9pbluEel1yVn6OG+OMbVYmkuAg64XEPIa/SXMQKBgQD67RFei/E55IEvOyLe\nPogCkgvdk1GXNtmh16jAl+DTz1J6vJr8WGbKRecGIX+AlQwbl1zDVMOg3WbRz21t\nU0HEWiXLRJ5oNpA2v8OcBWUfIOjBjfOsqnQFR1zbCS538xy9RoHoEZxCOLu5T6nM\nMdCqKRzUFyJieGaCgqSxyl3h6QKBgQDYBTRed6OfHWH3iFi977bH0w9kG4zTfp8G\n64DAA2NbUMby5IipTl3H49+j0IompXHgQ9IeDOyNA8NRgToo22OXNlEu6Gw4PI58\nrxqhOgIWonJWrqqOwwhmJF3l4z+oaHPxWsxMupk9ODmFE9gvgBmYTJsYmnszwIaG\ndvP+UgpJIwKBgQDugmSeL/rNAoxgrp9IDLwPZW7t4FgPmc1n7quy1SqZalmF3Lyc\n3BJodeVQiIq/V+04VLmR2YJR5+ER0U68OgUrdFy0R7cia6rMv55ZMS+bVRao1Bso\npqS9V8XFVYbb8TQCHYDha8vRjkexry1AsKEc/RMv7gV6/+LAbxnI/Qgb8QKBgEtM\nJSD4mvQPjeJ2iFhMgm3MyAShBcmCzXPgCxTjGXLvCSoJNwms40uVxpKXUlB+Qt9l\nRIxs/Nd6hE6YuOkc7+35ZPrw0SgZE6Gqd6HTUn8JSMmmQJVarkbMTl6fg8T0A9YR\nTD1Cnb+VJZeZfzWvdTx9F2LQFjnH1hxwwkPX3PX5AoGBAPH1DInKoN71Hwf6gjcz\nkV2kPuzv0/euBfkU/E2iC+NZA8/GJevjhvNNg7NVHxujFZs03/YKfRxfQpYyvZxP\ncp8GD79YBMGPIjKKon/cBarPjAH9oLb8uxo6eL8dr92JzbUxAjCrVazTI7yfEQ4L\n9OCmiXObwSaiYLHdII59BJ/T\n-----END PRIVATE KEY-----\n",
+  "client_email": "prueba-libreria@prueba-libreria-ocnn.iam.gserviceaccount.com",
+  "client_id": "107133968833457628704",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prueba-libreria%40prueba-libreria-ocnn.iam.gserviceaccount.com"
+}
