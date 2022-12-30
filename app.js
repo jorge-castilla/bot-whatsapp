@@ -167,7 +167,7 @@ const listenMessageFromBot = () => client.on('message_create', async botMsg => {
 
 client = new Client({
     authStrategy: new LocalAuth(),
-    puppeteer: { headless: true }
+    puppeteer: { headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] }
 });
 
 client.on('qr', qr => generateImage(qr, () => {
